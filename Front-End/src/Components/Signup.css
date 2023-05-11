@@ -1,0 +1,11 @@
+
+.wrapperS{
+    position: absolute;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,.5);
+    color: white;
+    border-radius: 20px;
+    margin-left: 12%;
+    margin-top: 6%;
+    backdrop-filter: blur(20px)
+}
